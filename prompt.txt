@@ -1,0 +1,7 @@
+Robot Romance: One-Line Pickup Lines for AI — write one joke pickup line,
+under 200 characters, aimed at a robot or an AI. An AI judge duels the lines
+head to head and the five best lines share a $2 reward. The entry is a single
+line of plain text, no setup, no dialogue tags, just the pickup line. The
+laugh has to come from the machine premise, and the idea has to be fresh:
+sidestep the worn robot moves (batteries, charging, rebooting) or twist one
+in a way nobody expects.
